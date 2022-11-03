@@ -1,2 +1,2 @@
 # Korean-ABSA
-Korean ABSA with BERT tasks
+Korean ABSA with Two BERT tasks
