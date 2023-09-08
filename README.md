@@ -17,9 +17,6 @@ Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Tr
   
     * Test set - Pseudo Label + Human annotation
 
-
-[id]: URL "Optional Title here"
-
 ## Evaluation (Kor-SemEval)
 * Aspect Category (P, R, F1)
 * Polarity (4, 3, Binary Acc)
