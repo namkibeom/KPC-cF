@@ -18,8 +18,7 @@
 
 ## Evaluation 
 * **Kor-SemEval**
-    * **Aspect Category** (P, R, F1)
-    * **Polarity** (4, 3, Binary Acc)
+    * **Aspect Category** (P, R, F1), **Polarity** (4, 3, Binary Acc)
     
 | Model         | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
 |:-------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
