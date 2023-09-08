@@ -18,7 +18,6 @@
 
 ## Evaluation 
 * **Kor-SemEval**
-
     * **Aspect Category** (P, R, F1)
     * **Polarity** (4, 3, Binary Acc)
     
