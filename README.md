@@ -17,8 +17,8 @@
     * Test set - Pseudo Label + Human annotation
 
 ## Evaluation (Kor-SemEval)
-* `Aspect Category` (P, R, F1)
-* `Polarity` (4, 3, Binary Acc)
+* Aspect Category (P, R, F1)
+* Polarity (4, 3, Binary Acc)
     
 | Model         | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
 |:-------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
@@ -29,8 +29,8 @@
 | NLI-ensemble  | **93.70** |  81.27  |   87.04  |   78.24   |   82.43   |  89.65  |
 
 ## Evaluation (KR3)
-* `Aspect Category` (P, R, F1)
-* `Polarity` (4, 3, Binary Acc)
+* Aspect Category (P, R, F1)
+* Polarity (4, 3, Binary Acc)
    
 | Model            | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
 |:----------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
