@@ -5,7 +5,11 @@ Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Tr
 
 <img src="image/abstract.png" width="400" height="600">
 
-**Kor-SemEval** : tranlated SemEval14 dataset
+
+**Kor-SemEval** : 
+
+Tranlated SemEval14 dataset
+
 
 **KR3** : 
 
