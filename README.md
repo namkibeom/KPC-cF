@@ -1,6 +1,6 @@
-# Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Translated Dataset
+# Korean-ABSA
 
-홍익대학교 산업공학과 졸업 프로젝트입니다.
+홍익대학교 산업공학과 졸업 프로젝트 <Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Translated Dataset> 입니다.
 
 ## Abstract
 <img src="image/abstract.png" width="400" height="600">
