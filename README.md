@@ -1,4 +1,4 @@
-# Korean-ABSA
+# [Hongik univ.] Korean-ABSA
 
 홍익대학교 산업데이터공학과 졸업프로젝트로 진행한 **"Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Translated Dataset"** 입니다.
 
