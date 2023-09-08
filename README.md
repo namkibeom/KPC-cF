@@ -6,11 +6,11 @@
 <img src="image/abstract.png" width="400" height="600">
 
 ## Dataset
-* `Kor-SemEval`
+* Kor-SemEval
 
     * Tranlated [SemEval14 dataset](https://github.com/HSLCY/ABSA-BERT-pair)
 
-* [`KR3`](https://github.com/yejoon-lee/kr3)subset
+* [KR3](https://github.com/yejoon-lee/kr3)subset
 
     * Train set - Pseudo labeled by fine tuning(Kor-SemEval) model
   
