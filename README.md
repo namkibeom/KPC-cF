@@ -7,14 +7,16 @@ Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Tr
 <img src="image/abstract.png" width="400" height="600">
 
 ## Dataset
-**Kor-SemEval** : Tranlated SemEval14 dataset
+* **Kor-SemEval** : Tranlated SemEval14 dataset
 
-**KR3** : Train set - Pseudo labeled by fine tuning(Kor-SemEval) model
+* **KR3** : Train set - Pseudo labeled by fine tuning(Kor-SemEval) model
 
 Test set - Pseudo Label + Human annotation
 
 ## Evaluation (Kor-SemEval)
-Aspect Category (P, R, F1), Polarity (4, 3, Binary Acc)      
+* Aspect Category (P, R, F1)
+* Polarity (4, 3, Binary Acc)
+    
 | Model         | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
 |:-------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
 | M-BERT-single |   92.16   |  77.95  |   84.46  |   68.20   |   71.84   |  77.95  |
@@ -24,7 +26,9 @@ Aspect Category (P, R, F1), Polarity (4, 3, Binary Acc)
 | NLI-ensemble  | **93.70** |  81.27  |   87.04  |   78.24   |   82.43   |  89.65  |
 
 ## Evaluation (KR3)
-Aspect Category (P, R, F1), Polarity (4, 3, Binary Acc)  
+* Aspect Category (P, R, F1)
+* Polarity (4, 3, Binary Acc)
+   
 | Model            | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
 |:----------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
 | M-BERT-NLI+PL    | **92.56** |  84.12  |   88.14  |   84.47   |   86.56   |  88.44  |
