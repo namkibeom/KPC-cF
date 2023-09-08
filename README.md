@@ -18,6 +18,8 @@ Polarity ( 4, 3, Binary Acc)
 | NLI-ensemble  |   93.70   |  81.27  |   87.04  |   78.24   |   82.43   |  89.65 |
 
 ## Evaluation (KR3)
+Aspect Category (P, R, F1)
+Polarity ( 4, 3, Binary Acc)
 | Model            | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary |
 |:----------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:------:|
 | M-BERT-NLI+PL    |   92.16   |  77.95  |   84.46  |   68.20   |   71.84   |  77.95 |
