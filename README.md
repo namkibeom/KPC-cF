@@ -14,7 +14,7 @@ Aspect Category (P, R, F1)/ Polarity (4, 3, Binary Acc)
 | XLM-R-single  |   91.01   |  49.37  |   64.01  |   62.93   |   66.29   |  75.20 | 
 | M-BERT-NLI    |   91.10   |  79.90  |   85.14  |   73.95   |   77.90   |  84.87 | 
 | XLM-R-NLI     |   91.37   |  83.71  |   87.37  |   79.41   |   83.66   |  89.98 |
-| NLI-ensemble  |   93.70   |  81.27  |   87.04  |   78.24   |   82.43   |  89.65 |
+| NLI-ensemble  | **93.70** |  81.27  |   87.04  |   78.24   |   82.43   |  89.65 |
 
 ## Evaluation (KR3)
 Aspect Category (P, R, F1)/ Polarity (4, 3, Binary Acc)  
