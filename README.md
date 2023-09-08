@@ -18,7 +18,7 @@ Aspect Category (P, R, F1), Polarity (4, 3, Binary Acc)
 
 ## Evaluation (KR3)
 Aspect Category (P, R, F1), Polarity (4, 3, Binary Acc)  
-| Model            | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary |
-|:----------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:------:|
-| M-BERT-NLI+PL    |   92.16   |  77.95  |   84.46  |   68.20   |   71.84   |  77.95 |
-| XLM-R-single+PL  |   91.01   |  49.37  |   64.01  |   62.93   |   66.29   |  75.20 | 
+| Model            | Precision |  Recall | F1 score | 4-way acc | 3-way acc | Binary  |
+|:----------------:|:---------:|:-------:|:--------:|:---------:|:---------:|:-------:|
+| M-BERT-NLI+PL    | **92.56** |  84.12  |   88.14  |   84.47   |   86.56   |  88.44  |
+| XLM-R-NLI+PL     |   92.42   |**87.25**| **89.76**| **88.69** | **90.78** |**93.07**| 
