@@ -11,7 +11,7 @@ Korean Aspect-Based Sentiment Analysis via NLI model-Based Pseudo-Label using Tr
 
 * **KR3** : Train set - Pseudo labeled by fine tuning(Kor-SemEval) model
 
-Test set - Pseudo Label + Human annotation
+> Test set - Pseudo Label + Human annotation
 
 ## Evaluation (Kor-SemEval)
 * Aspect Category (P, R, F1)
