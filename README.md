@@ -12,9 +12,9 @@
 
 * [KR3](https://github.com/yejoon-lee/kr3) subset
 
-    * Train set - Pseudo labeled by fine tuning(Kor-SemEval) model
+    * Train set : Pseudo labeled by fine tuning(Kor-SemEval) model
   
-    * Test set - Pseudo Label + Human annotation
+    * Test set : Pseudo Label + Human annotation
 
 ## Evaluation 
 * **Kor-SemEval**
