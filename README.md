@@ -1,6 +1,6 @@
 # <span style="font-variant:small-caps;">KPC-cF</span> 
 
-> **[<span style="font-variant:small-caps;">KPC-cF:</span> Korean Aspect-Based Sentiment Analysis via NLI-Based Pseudo-Classifier with Corpus Filtering](https://drive.google.com/file/d/15vSPtoKlz4jxbEOAsseWgnpPSOBI_Fb0/view?usp=drive_link)**<br>   
+> **[<span style="font-variant:small-caps;">KPC-cF:</span> Korean Aspect-Based Sentiment Analysis via NLI-Based Pseudo-Classifier with Corpus Filtering](https://drive.google.com/file/d/1CeALsl34YL6AUid0kcgX2rycgSIZwDBK/view?usp=sharing)**<br>   
 > <!--Kibeom Nam<sup>1,2</sup>   
 > <sup>1</sup> Hongik university <sup>2</sup> MODULABS-->
 
