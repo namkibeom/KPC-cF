@@ -42,8 +42,14 @@ correction SemEval14
   <img src="image/paper_figure(4).png" width="800" height="300">
 </p>
 
+## t-SNE visualization of last [CLS] embeddings extracted from KR3 testset by two different experimental encoders
+
+<p align="center">
+ <img src="image/Figure_tSNE.png" width="600" height="600">
+</p>
+
 <!--
-## Performance of ACD and ACP during fine-tuning
+## Performance of ACD and ACP during fine-tuning 
 
 <p align="center">
  <img src="image/paper_plot.png" width="600" height="600">
