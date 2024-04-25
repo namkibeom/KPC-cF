@@ -57,8 +57,10 @@ correction SemEval14
 -->
 ## To-Do List
 
+- In progress : Validation of shallow feature using sentence encoding of LMs + ML (e.g., LR..) for data efficacy
 - [ ]  Inference code
 - [ ]  Training code
+  
 
 
 ## Acknowledgement
