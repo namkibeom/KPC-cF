@@ -45,7 +45,7 @@ correction SemEval14
 ## Embedding Visualization
 
 <p align="center">
- <img src="image/Figure_tSNE.png" width="500" height="500">
+ <img src="image/Figure_tSNE.png" width="300" height="300">
 </p>
 
 <!--
