@@ -55,6 +55,13 @@ correction SemEval14
  <img src="image/paper_plot.png" width="600" height="600">
 </p>
 -->
+
+## Probability Distribution
+
+<p align="center">
+ <img src="image/Figure_ProbDist.png" width="700" height="700">
+</p>
+
 ## To-Do List
 
 **In progress** : Validation of shallow feature using sentence encoding of LMs + ML (e.g., LR..) for data efficacy
