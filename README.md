@@ -59,7 +59,7 @@ correction SemEval14
 ## Probability Distribution
 
 <p align="center">
- <img src="image/Figure_ProbDist.png" width="700" height="700">
+ <img src="image/Figure_ProbDist.png" width="700" height="500">
 </p>
 
 ## To-Do List
