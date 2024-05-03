@@ -16,7 +16,7 @@
 
 ## Flowchart
 <p align="center">
-  <img src="image/paper_figure(3).png" width="800" height="350">
+  <img src="image/paper_figure(3).png" width="700" height="350">
 </p>
 
 ## Dataset
@@ -39,7 +39,7 @@ correction SemEval14
 
 **KR3 test**
 <p align="center">
-  <img src="image/paper_figure(4).png" width="530" height="200">
+  <img src="image/paper_figure(4).png" width="500" height="200">
 </p>
 
 ## Embedding Visualization
