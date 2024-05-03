@@ -39,7 +39,7 @@ correction SemEval14
 
 **KR3 test**
 <p align="center">
-  <img src="image/paper_figure(4).png" width="800" height="300">
+  <img src="image/paper_figure(4).png" width="530" height="200">
 </p>
 
 ## Embedding Visualization
@@ -59,7 +59,7 @@ correction SemEval14
 ## Probability Distribution
 
 <p align="center">
- <img src="image/Figure_ProbDist.png" width="700" height="500">
+ <img src="image/Figure_ProbDist.png" width="425" height="300">
 </p>
 
 ## To-Do List
