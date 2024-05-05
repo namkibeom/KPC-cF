@@ -37,11 +37,12 @@ correction SemEval14
 **Aspect Category Polarity (ACP)**
 > 4-way, 3-way, Binary Acc
 
+<!--
 **KR3 test**
 <p align="center">
   <img src="image/paper_figure(4).png" width="500" height="150">
 </p>
-
+-->
 ## Embedding Visualization
 
 <p align="center">
