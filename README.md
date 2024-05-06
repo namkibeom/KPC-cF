@@ -16,7 +16,7 @@
 
 ## Flowchart
 <p align="center">
-  <img src="image/paper_figure(3).png" width="500" height="200">
+  <img src="image/paper_figure(3).png" width="700" height="300">
 </p>
 
 ## Dataset
@@ -46,7 +46,7 @@ correction SemEval14
 ## Embedding Visualization
 
 <p align="center">
- <img src="image/Figure_tSNE.png" width="300" height="300">
+ <img src="image/Figure_tSNE.png" width="250" height="250">
 </p>
 
 <!--
@@ -60,7 +60,7 @@ correction SemEval14
 ## Probability Distribution
 
 <p align="center">
- <img src="image/Figure_ProbDist.png" width="425" height="300">
+ <img src="image/Figure_ProbDist.png" width="495" height="350">
 </p>
 
 ## To-Do List
