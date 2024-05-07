@@ -66,7 +66,7 @@ correction SemEval14
 ## To-Do List
 
 **In progress** : Validation of shallow feature using sentence encoding of LMs + ML for data efficacy
-- [ ]  Inference code
+- [ ]  Inference code [(HuggingFace)](https://huggingface.co/KorABSA)
 - [ ]  Filtering & Training code
   
 
