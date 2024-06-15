@@ -60,12 +60,11 @@ correction SemEval14
 ## Probability Distribution
 
 <p align="center">
- <img src="image/Figure_ProbDist.png" width="495" height="350">
+ <img src="image/Figure_ProbDist.png" pwidth="495" height="350">
 </p>
 
 ## To-Do List
 
-**In progress** : Validation of shallow feature using sentence encoding of LMs + ML for combined data efficacy
 - [ ]  Inference code [(HuggingFace)](https://huggingface.co/KorABSA)
 - [ ]  Filtering & Training code
   
