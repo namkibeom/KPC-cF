@@ -6,7 +6,7 @@
 
 
 
-<a href="https://arxiv.org/abs/2407.00342"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:KPC-cF&color=red&logo=arxiv"></a> &ensp;
+<a href="https://drive.google.com/file/d/1ZVGuA9SUBJ4EkunWIX8scXaYDDCENrfd/view"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:KPC-cF&color=red&logo=arxiv"></a> &ensp;
 <a href="https://huggingface.co/KorABSA/KPC-cF"><img src="https://img.shields.io/badge/Model-Checkpoints-blue"></a> &ensp;
 
 
