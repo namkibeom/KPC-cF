@@ -1,6 +1,6 @@
 # <span style="font-variant:small-caps;">KPC-cF</span> 
 
-> **<span style="font-variant:small-caps;">Korean Aspect-Based Sentiment Analysis via Implicit-Feature Alignment with Corpus Filtering**<br>
+> **<span style="font-variant:small-caps;">KPC-cF: Aspect-Based Sentiment Analysis via Implicit-Feature Alignment with Corpus Filtering**<br>
 > [Kibeom Nam](https://www.linkedin.com/in/Kibeom-nam/)<sup>1,2</sup>   
 > <sup>1</sup>Hongik university <sup>2</sup>MODULABS
 
